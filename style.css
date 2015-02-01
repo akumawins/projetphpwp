@@ -1,0 +1,146 @@
+/*
+Theme Name: SpinningBird
+Theme URI: http://.fr/
+Description: Thème en colère
+Author : JasonX team
+Author URI/ http://.fr/
+Tags: white, black, full-width, simple, cool
+
+	SpinningBird
+	
+http://.fr/
+
+*/
+
+body
+{
+		margin: auto;
+		width: 80%;
+		padding: 0px;
+		background: #f2f2f2;
+		color: white;
+		margin-top:50px;
+}
+
+header
+{
+		background: white;
+		height: 150px;
+}
+	header img
+	{
+		width: 8%;
+	}
+	.headera
+	{	
+		margin: auto;
+		text-align: center;
+	}
+
+nav
+{
+		height: 100px;
+}
+	.nava
+	{
+		background: red;		
+		height: 50px;
+	}
+	.navb
+	{
+		background: #D484FF;				
+		height: 50px;
+		width: 70%;
+		float: left;
+	}
+	.navc
+	{
+		background: yellow;				
+		height: 50px;
+		width: 30%;
+		float: right;
+	}
+
+section
+{
+		background: white;
+		height: 2200px;
+}
+
+article
+{
+	display: inline-block;
+}
+	.articlez
+	{
+		background: #42FFFD;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 20px;
+		width: 90%;
+		height: 150px;
+	}
+	
+	.articlea
+	{
+		background: #42FFFD;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 20px;
+		width: 40%;
+		height: 150px;
+	}
+	.articleb
+	{
+		background: #42FFFD;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 20px;
+		width: 40%;
+		height: 150px;
+		float: left;
+	}	
+	.articlec
+	{
+		background: #42FFFD;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 20px;
+		width: 40%;
+		height: 150px;
+		float: left;
+	}
+	.articled
+	{
+		background: #42FFFD;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 20px;
+		width: 40%;
+		height: 150px;
+		float: left;
+	}	
+	
+	img
+	{
+		width: 100%;
+	    height: auto;
+	    max-width: 100%;
+	}
+	
+aside
+{
+		background: #E89D0C;
+		height: 200px;
+}
+
+footer
+{
+		background: #420CE8;
+		height: 100px;
+		width: 100%;
+}
+
+
+
+
